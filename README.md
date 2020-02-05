@@ -19,3 +19,4 @@
 14. **미니프로젝트(그래픽으로 만들고싶은거 구현하기)**
 
 ## 미리보기(첫화면)
+![Main](https://user-images.githubusercontent.com/48710889/73809870-efa16180-4817-11ea-9b8c-4788225eabb2.PNG)
