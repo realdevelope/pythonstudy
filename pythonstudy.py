@@ -1337,7 +1337,7 @@ canvas.bind("<B1-Motion>", paint)
 button = Button(window, text = "빨강색", command = change_color)
 button.pack()
 
-window.mainloop()'''
+window.mainloop()
 
 #실습 삼각학,사각형,오각형,육각형,팔각형 을 숫자로  입력 받고 -> 거북이로 숫자입력받은 도형 그리기
 
@@ -1383,4 +1383,14 @@ btn2.grid(row=0, column =3)
 #label.pack()
 
 r.mainloop()
+'''
+
+#쉬운예제 연습
+import turtle as t
+
+t.shape('turtle')
+t.speed('fastest')
+for i in range(300):
+    t.forward(i)
+    t.right(91)
 
